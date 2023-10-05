@@ -9,3 +9,15 @@
     --dark-blue: #1e5170;
 }
 
+.bg-dark-gray {
+    background-color: var(--dark-gray);
+}
+
+.bright-hover {
+    transition: all 0.2s;
+}
+
+.bright-hover:hover {
+    filter: brightness(1.5);
+    color: white;
+}
