@@ -4,9 +4,43 @@
     --yellow: #ffc207;
     --cyan: #16a3b7;
     --light-green: #96c93e;
-    --green: hsl(133, 61%, 41%);
+    --green: #29a744;
     --dark-gray: #353a40;
     --dark-blue: #1e5170;
+}
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.carousel {
+    height: 80vh;
+    min-height: 700px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    position: relative;
+}
+
+.carousel-caption {
+    bottom: 100%;
+    top: 0;
+    left: initial;
+    right: initial;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+.carousel-caption__text {
+    width: 45%;
+    min-width: 270px;
+    position: absolute;
+    right: 10%;
+    top: 45%;
 }
 
 .bg-dark-gray {
@@ -21,3 +55,14 @@
     filter: brightness(1.5);
     color: white;
 }
+
+.btn-success__mod {
+    background-color: var(--green);
+    border-color: var(--green);
+}
+
+.left-10 {
+    right: initial;
+    left: 10%
+}
+
