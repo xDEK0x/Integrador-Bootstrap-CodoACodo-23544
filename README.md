@@ -1,10 +1,10 @@
 <!-- TÍTULO Y DESCRIPCIÓN -->
   <a name="ir-arriba"></a>
   # 💻 # Integrador-Bootstrap-CodoACodo
-  <img align="right" sytle="inline" src="./assets/img/
-  codoacodo.png" width="" />
 
-  ### Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2022**
+  <img align="right" sytle="inline" src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/codoacodo.png" width="100px" />
+
+  ### Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2023**
   <div align="center">
     <table>
       <tr>
@@ -12,13 +12,13 @@
         Consigna: Replica realizada con HTML, Bootstrap y JavaScript
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="400px">
+          <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel.jpg" width="400px target_blank" >
         </td>
       </tr>
     </table>
   </div>
 
-  🔗 #### [🔗Link a GitHub Page del proyecto](https://xdek0x.github.io/Integrador-Bootstrap-CodoACodo-23544/)
+  [🔗Link a GitHub Page del proyecto](https://xdek0x.github.io/Integrador-Bootstrap-CodoACodo-23544/)
 
 <!-- ÍNDICE -->
   <a name="indice"></a>
@@ -27,13 +27,11 @@
     <li><a href="#ir-arriba">Título y descripción del proyecto</a></li>
     <li><a href="#indice">Índice</a></li>
     <li><a href="#tecnologias">Tecnologías utilizadas</a></li>
-    <li><a href="#instalacion">Instalación</a></li>
     <li><a href="#secciones">Secciones de la web</a>
       <ul>
         <li><a href="#carousel">Carousel</a></li>
         <li><a href="#cards">Cards</a></li>
         <li><a href="#formulario">Formulario</a></li>
-        <li><a href="#comprar-ticket">Comprar ticket</a></li>
        </ul>
     </li>
     <li><a href="#desarrollado">Desarrollado por...</a>
@@ -72,26 +70,26 @@
 
 ### Carousel
   <p align="center">
-    <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="800px">
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel.jpg" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 ### Cards
   <p align="center">
-    <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-cards.jpg" width="800px">
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-cards.jpg" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 ### Formulario
   <p align="center">
-    <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-form.jpg" width="800px">
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-form.jpg" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
-  ## 👨‍💻 Desarrollado por:
+  ## 👨‍💻 Desarrollado por
   * **Rodrigo Maximiliano Quintana arroyo** - [xDEK0x](https://github.com/xDEK0x)
 
   
@@ -99,13 +97,16 @@
   
 <!-- CONTACTO -->
   <a name="contacto"></a>
-  ## 📩 Contacto:
+  ## 📩 Contacto
   * **Si deseas contactarte conmigo:**
-  <a href="https://ar.linkedin.com/in/joana-coll" target="_blank">
-  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/linkedin.svg" alt="Github" height="30" />
-  </a>
-  <a href="mailto:colljoana@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
-  </a>
+  <div align="center">
+
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dekkoxd/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmqa/)
+  </div>
+
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
+
+
+
 
