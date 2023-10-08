@@ -98,7 +98,7 @@
 <!-- CONTACTO -->
   <a name="contacto"></a>
   ## 📩 Contacto
-  * **Si deseas contactarte conmigo:**
+  * **Si deseas contactarte conmigo**
   <div align="center">
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dekkoxd/)
@@ -106,7 +106,3 @@
   </div>
 
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
-
-
-
-
