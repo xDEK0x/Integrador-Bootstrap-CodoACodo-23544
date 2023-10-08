@@ -68,19 +68,24 @@
   </ul>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
-### Carousel
+### # Carousel Autoplaying - without controls - captions
   <p align="center">
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel.jpg" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
-### Cards
+### # Cards
   <p align="center">
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-cards.jpg" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
-### Formulario
+  ### # Carousel Autoplaying - Cards Horizontal
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel-cards-horizontal.jpg" width="800px">
+  </p>
+
+### # Formulario
   <p align="center">
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-form.jpg" width="800px">
   </p>
