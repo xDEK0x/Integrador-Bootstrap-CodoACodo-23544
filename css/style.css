@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 :root {
     --white: #ffffff;
@@ -9,12 +15,10 @@
     --dark-blue: #1e5170;
 }
 
-/* body {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-} */
+html,body{
+width:100%;
+overflow-x:hidden;
+}
 
 .img-1 {
     background-image: url(../img/ba1.jpg);
