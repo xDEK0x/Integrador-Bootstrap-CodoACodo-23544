@@ -20,7 +20,7 @@
       </tr>
     </table> -->
   <div align="center">
-    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="400px" >
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="800px" >
   </div>
 
   [🔗Link a GitHub Page del proyecto](https://xdek0x.github.io/Integrador-Bootstrap-CodoACodo-23544/)
