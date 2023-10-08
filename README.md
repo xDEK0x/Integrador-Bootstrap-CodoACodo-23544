@@ -5,17 +5,22 @@
   <img align="right" sytle="inline" src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/codoacodo.png" width="100px" />
 
   ### Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2023**
-  <div align="center">
-    <table>
+  ## # Instrucciones
+  <p>
+    Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap
+  </p>
+<!--     <table>
       <tr>
         <td>
-        Consigna: Replica realizada con HTML,CSS y Bootstrap.
+        Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel.jpg" width="400px" >
+          <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="400px" >
         </td>
       </tr>
-    </table>
+    </table> -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="400px" >
   </div>
 
   [🔗Link a GitHub Page del proyecto](https://xdek0x.github.io/Integrador-Bootstrap-CodoACodo-23544/)
