@@ -9,16 +9,7 @@
   <p>
     Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap
   </p>
-<!--     <table>
-      <tr>
-        <td>
-        Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap
-        </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="400px" >
-        </td>
-      </tr>
-    </table> -->
+
   <div align="center">
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo.jpg" width="800px" >
   </div>
@@ -100,7 +91,7 @@
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
   ## 👨‍💻 Desarrollado por
-  * **Rodrigo Maximiliano Quintana arroyo** - [xDEK0x](https://github.com/xDEK0x)
+  * **Rodrigo Maximiliano Quintana Arroyo** - [xDEK0x](https://github.com/xDEK0x)
 
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
