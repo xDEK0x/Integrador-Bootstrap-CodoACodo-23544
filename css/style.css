@@ -194,10 +194,15 @@ overflow-x:hidden;
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-/* Media query para pantallas con una resolución máxima de 836px */
-@media (max-width: 841px) {
+@media (max-width: 991px) {
     .carousel-caption__text {
-        margin: auto;
+        width: 100%;
+    }
+  }
+  
+@media (min-width: 992px) {
+    .carousel-caption__text {
+        width: 600px;
     }
   }
   
