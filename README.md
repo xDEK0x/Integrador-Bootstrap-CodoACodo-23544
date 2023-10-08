@@ -4,7 +4,7 @@
 
   <img align="right" sytle="inline" src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/codoacodo.png" width="100px" />
 
-  ### Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2023**
+  ## Trabajo Practico Integrador Front End del curso **Codo a Codo Java Full Stack 2023 Comision-23544**
   ## # Instrucciones
   <p>
     Deberán replicar la siguiente página principal con lo visto en clase hasta el momento, se recomienda el uso de bootstrap
