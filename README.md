@@ -9,7 +9,7 @@
     <table>
       <tr>
         <td>
-        Consigna: Replica realizada con HTML, Bootstrap y JavaScript
+        Consigna: Replica realizada con HTML,CSS y Bootstrap.
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel.jpg" width="400px" >
