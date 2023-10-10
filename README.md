@@ -76,7 +76,7 @@
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
-  ### # Carousel Autoplaying - Cards Horizontal
+### # Carousel Autoplaying - Cards Horizontal
   <p align="center">
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-carousel-cards-horizontal.jpg" width="800px">
   </p>
