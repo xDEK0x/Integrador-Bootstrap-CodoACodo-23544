@@ -61,6 +61,7 @@
     <li>Carousel</li>
     <li>Cards</li>
     <li>Formulario</li>
+    <li>Comprar ticket</li>
   </ul>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
@@ -84,6 +85,12 @@
 ### # Formulario
   <p align="center">
     <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/readme-form.jpg" width="800px">
+  </p>
+  <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
+
+  ### # Comprar ticket
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/xDEK0x/Integrador-Bootstrap-CodoACodo-23544/master/img/ejemplo2.jpg" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
