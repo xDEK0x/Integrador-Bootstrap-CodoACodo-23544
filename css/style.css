@@ -36,7 +36,7 @@ overflow-x:hidden;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 710px;
+    height: 725px;
     width: 100%;
     /* position: relative;  */
 }
@@ -204,4 +204,12 @@ overflow-x:hidden;
     .carousel-caption__text {
         width: 600px;
     }
+  }
+
+
+  /* Tickes */
+
+  .px-mod {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
   }
